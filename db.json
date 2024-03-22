@@ -8,7 +8,7 @@
       "price": 80,
       "from": "Alice",
       "to": "Lily",
-      "note":"HBD!"
+      "note": "HBD!"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 200,
       "from": "Lily",
       "to": "Alice",
-      "note":"Enjoy :)"
+      "note": "Enjoy :)"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 32.5,
       "from": "Tracy",
       "to": "Alice",
-      "note":"Cuuuuute!!!"
+      "note": "Cuuuuute!!!"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 14,
       "from": "Ciccy",
       "to": "Tracy",
-      "note":"An Apple A Day..."
+      "note": "An Apple A Day..."
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 15.99,
       "from": "Suis",
       "to": "Ciccy",
-      "note":"My fav!"
+      "note": "My fav!"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 44.99,
       "from": "Suis",
       "to": "Alice",
-      "note":"Link be careful!"
+      "note": "Link be careful!"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 13.98,
       "from": "Alice",
       "to": "Tracy",
-      "note":"Willow the best!"
+      "note": "Willow the best!"
     },
     {
       "id": 8,
@@ -78,11 +78,11 @@
       "price": 13.98,
       "from": "Tracy",
       "to": "Alice",
-      "note":"Gold Rush the best!"
+      "note": "Gold Rush the best!"
     }
   ],
   "lists": [
-     {
+    {
       "id": 1,
       "title": "Devices"
     },
@@ -102,5 +102,5 @@
       "id": 5,
       "title": "Jellycats"
     }
-  ],
+  ]
 }
