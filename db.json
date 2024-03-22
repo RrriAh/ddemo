@@ -3,79 +3,106 @@
     {
       "id": 1,
       "listId": 1,
-      "title": "Washing pods",
+      "title": "earpods",
       "quantity": 1,
-      "price": 6.99
+      "price": 80,
+      "from": "Alice",
+      "to": "Lily",
+      "note":"HBD!"
     },
     {
       "id": 2,
       "listId": 1,
-      "title": "Rice",
+      "title": "PS Vita",
       "quantity": 1,
-      "price": 0.99
+      "price": 200,
+      "from": "Lily",
+      "to": "Alice",
+      "note":"Enjoy :)"
     },
     {
       "id": 3,
-      "listId": 2,
+      "listId": 5,
       "title": "Birthday Cake",
       "quantity": 1,
-      "price": 8.99
+      "price": 32.5,
+      "from": "Tracy",
+      "to": "Alice",
+      "note":"Cuuuuute!!!"
+    },
+    {
+      "id": 4,
+      "listId": 5,
+      "title": "Fabulous Fruit Apple",
+      "quantity": 1,
+      "price": 14,
+      "from": "Ciccy",
+      "to": "Tracy",
+      "note":"An Apple A Day..."
+    },
+    {
+      "id": 5,
+      "listId": 2,
+      "title": "Flowers for Algernon",
+      "quantity": 1,
+      "price": 15.99,
+      "from": "Suis",
+      "to": "Ciccy",
+      "note":"My fav!"
+    },
+    {
+      "id": 6,
+      "listId": 3,
+      "title": "Breath of the Wild",
+      "quantity": 1,
+      "price": 44.99,
+      "from": "Suis",
+      "to": "Alice",
+      "note":"Link be careful!"
+    },
+    {
+      "id": 7,
+      "listId": 4,
+      "title": "Evermore",
+      "quantity": 1,
+      "price": 13.98,
+      "from": "Alice",
+      "to": "Tracy",
+      "note":"Willow the best!"
+    },
+    {
+      "id": 8,
+      "listId": 4,
+      "title": "Evermore",
+      "quantity": 1,
+      "price": 13.98,
+      "from": "Tracy",
+      "to": "Alice",
+      "note":"Gold Rush the best!"
     }
   ],
 
   "lists": [
-    {
+     {
       "id": 1,
-      "title": "Daily groceries"
+      "title": "Devices"
     },
     {
       "id": 2,
-      "title": "Birthday"
-    }
-  ],
- 
-  "tasks": [
-    {
-      "id": 1,
-      "title": "Fix navigation bug",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.",
-      "lane": 1
-    },
-    {
-      "id": 2,
-      "title": "Release new website",
-      "body": "hasellus eleifend lacus vitae est ultrices placerat. Nunc at risus id risus venenatis laoreet sit amet cursus neque.",
-      "lane": 2
+      "title": "Books"
     },
     {
       "id": 3,
-      "title": "Change button color",
-      "body": "Suspendisse ac lorem a neque tempus luctus non aliquam sapien. Cras ut lacus bibendum, placerat nibh eu, tempus neque.",
-      "lane": 3
+      "title": "Games"
     },
     {
       "id": 4,
-      "title": "Deploy server on acceptance environment",
-      "body": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.",
-      "lane": 3
+      "title": "Albums"
     },
     {
       "id": 5,
-      "title": "Change layout for the content page",
-      "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
-      "lane": 3
-    },
-    {
-      "id": 6,
-      "title": "Complete the registration flow",
-      "body": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.",
-      "lane": 4
-    },
-    {
-      "id": 7,
-      "title": "Create new database instance",
-      "body": " Curabitur nec sem lorem. Donec venenatis, arcu vitae malesuada consequat, dolor ante placerat mi, in fermentum diam ipsum id libero.",
-      "lane": 4
+      "title": "Jellycats"
     }
   ],
+
 }
